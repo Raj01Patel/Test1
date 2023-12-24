@@ -1,0 +1,2 @@
+Cricket uses bat, ball, and stumps.
+
